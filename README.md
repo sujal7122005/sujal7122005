@@ -8,7 +8,7 @@
 
 <div align="left">
   
-📍 Ahmedabad, Gujarat, India | 🎓 Student @ VGEC
+📍 Ahmedabad, Gujarat, India | 🎓 Student @ VGEC,Chandkheda
 
 </div>
 
