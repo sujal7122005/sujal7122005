@@ -1,8 +1,8 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:1F2933&height=300&section=header&text=Sujal%20Patel&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20•%20DSA%20Enthusiast%20•%20Problem%20Solver&descAlignY=56" />
+</div>
 
-
-
-
-# 👋 Hi, I'm Sujal Patel
+# Hi, I'm Sujal Patel
 
 ### Full Stack Developer | DSA Enthusiast
 
