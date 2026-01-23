@@ -162,9 +162,9 @@
 
 ### Full Stack Developer | DSA Enthusiast
 
-<div align="center">
+<div align="left">
   
-📍 Ahmedabad, Gujarat, India | 🎓 Student @ VGEC
+📍 Ahmedabad, Gujarat, India | 🎓 Student @ VGEC,Chandkheda
 
 </div>
 
@@ -230,7 +230,7 @@ A robust video streaming backend built with the **MERN Stack** featuring authent
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-patel-1a8b94329)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdpatel7122005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujal7122005)
+
 
 </div>
 
@@ -240,10 +240,10 @@ A robust video streaming backend built with the **MERN Stack** featuring authent
 
 I'm enthusiastic about collaborating on:
 
-- ✨ Open-source projects
-- 💡 Innovative web applications
-- 🤝 Team projects and contributions
-- 📚 Learning opportunities
+- Open-source projects
+- Innovative web applications
+- Team projects and contributions
+- Learning opportunities
 
 Feel free to reach out if you have an interesting project or want to collaborate!
 
