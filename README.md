@@ -60,14 +60,14 @@ const Sujal Patel= {
 
 <!-- Featured Projects -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="30" /> Featured Projects
+##  Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="20" /> VideoTube Backend
+###  VideoTube Backend
 
 <p align="center">
   <a href="https://github.com/sujal7122005/VideoTube---Backend-Project">
@@ -90,7 +90,7 @@ const Sujal Patel= {
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="20" /> Pupple
+###  Pupple
 
 <p align="center">
   <a href="https://github.com/sujal7122005/React-Mega-Project---BlogAPP">
@@ -121,14 +121,9 @@ const Sujal Patel= {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" /> GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sujal7122005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal7122005&theme=github-dark-blue&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakLabel=238636" />
-</div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal7122005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=c9d1d9&langs_count=8" />
-</div>
+
+
 
 <br/>
 
@@ -141,7 +136,7 @@ const Sujal Patel= {
 
 <!-- Current Focus -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="30" /> Current Focus
+##  Current Focus
 
 <div align="center">
 
