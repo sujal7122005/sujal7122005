@@ -47,7 +47,7 @@ const Sujal Patel= {
 
 <div align="center">
 
-###  Client (UI Layer)
+### Client (UI Layer)
 
 <p><em>Things that run in browser</em></p>
 
@@ -60,7 +60,7 @@ const Sujal Patel= {
 
 ---
 
-###  Server & API (Application Layer)
+### Server & API (Application Layer)
 
 <p><em>Actual backend logic</em></p>
 
@@ -71,7 +71,7 @@ const Sujal Patel= {
 
 ---
 
-###  Database & Storage (Data Layer)
+### Database & Storage (Data Layer)
 
 <p><em>Persistence layer</em></p>
 
@@ -88,7 +88,7 @@ const Sujal Patel= {
 
 ---
 
-###  Developer Tools
+### Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -152,6 +152,33 @@ const Sujal Patel= {
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Auth-Next.js
+
+<p align="center">
+  <a href="https://github.com/sujal7122005/Auth-Next.js">
+    <img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+**Full-stack authentication system with Next.js 16**
+
+- JWT auth with httpOnly cookies & route protection
+- Email verification via Nodemailer
+- Secure signup, login, profile & logout flow
+- Middleware-based protected routes
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
