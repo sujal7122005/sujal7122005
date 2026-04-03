@@ -179,6 +179,32 @@ const Sujal Patel= {
 
 </td>
 <td width="50%">
+
+  
+### UnSaid
+
+<p align="center">
+  <a href="https://github.com/sujal7122005/Unsaid-Anonymous-feedback-web-application">
+    <img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://unsaid-liart.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+**Anonymous feedback platform with AI-powered suggestions**
+
+- OTP-based authentication and secure sessions
+- Public profile links for anonymous feedback collection
+- AI-generated message suggestions for senders
+- Dashboard inbox to manage and delete messages
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-111827?style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1F2937?style=flat-square&logo=shadcnui&logoColor=white)
 </td>
 </tr>
 </table>
