@@ -109,6 +109,64 @@ const Sujal Patel= {
 <tr>
 <td width="50%">
 
+### UnSaid
+
+<p align="center">
+  <a href="https://github.com/sujal7122005/Unsaid-Anonymous-feedback-web-application">
+    <img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://unsaid-liart.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+**Anonymous feedback platform with AI-powered suggestions**
+
+- OTP-based authentication and secure sessions
+- Public profile links for anonymous feedback collection
+- AI-generated message suggestions for senders
+- Dashboard inbox to manage and delete messages
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-111827?style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1F2937?style=flat-square&logo=shadcnui&logoColor=white)
+
+</td>
+<td width="50%">
+
+### AgenticPilot
+
+<p align="center">
+  <a href="https://github.com/Priyanshu-Debugs/AgenticPilot">
+    <img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.agenticpilot.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+**AI-powered business automation platform for modern teams**
+
+- AI agents automate repetitive workflows with context-aware responses
+- Intelligent task classification, confidence scoring, and escalation
+- Custom templates, comprehensive logging, and analytics dashboard
+- OAuth integrations, real-time updates, and dark/light mode
+- Built with Next.js 15, TypeScript, Tailwind CSS, Supabase, and Google Gemini AI
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### VideoTube Backend
 
 <p align="center">
@@ -157,7 +215,7 @@ const Sujal Patel= {
 <tr>
 <td width="50%">
 
-### Auth-Next.js
+### AuthJS
 
 <p align="center">
   <a href="https://github.com/sujal7122005/Auth-Next.js">
@@ -180,31 +238,8 @@ const Sujal Patel= {
 </td>
 <td width="50%">
 
-  
-### UnSaid
+&nbsp;
 
-<p align="center">
-  <a href="https://github.com/sujal7122005/Unsaid-Anonymous-feedback-web-application">
-    <img src="https://img.shields.io/badge/View_Project-238636?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://unsaid-liart.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-**Anonymous feedback platform with AI-powered suggestions**
-
-- OTP-based authentication and secure sessions
-- Public profile links for anonymous feedback collection
-- AI-generated message suggestions for senders
-- Dashboard inbox to manage and delete messages
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better%20Auth-111827?style=flat-square)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1F2937?style=flat-square&logo=shadcnui&logoColor=white)
 </td>
 </tr>
 </table>
